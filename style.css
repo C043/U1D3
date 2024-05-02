@@ -58,11 +58,16 @@ h3 {
 
 figure {
     text-align: center;
-    margin: 1em 0em 5em 0em;
 }
 
-figure img {
+.video-player {
     width: 810px;
     border-radius: 10px;
     box-shadow: 5px 5px 4px #00000048;
+}
+
+.caption {
+    text-align: center;
+    color: rgb(165, 165, 165);
+    margin: 1em 0em 2em 0em;
 }
